@@ -21,8 +21,8 @@ Hello! I'm Md Shakil Hossain, a passionate junior frontend web developer with ex
   </a>
 
 ## GitHub Stats
-![Commit Count](https://img.shields.io/badge/Commits-1234-green?style=for-the-badge)
-![Top Languages](https://img.shields.io/badge/Top%20Languages-JavaScript%20%7C%20CSS%20%7C%20HTML-blue?style=for-the-badge)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakil4432&show_icons=true&hide_border=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil4432&layout=compact&hide_border=true&theme=dark)
 
 ## Let's Connect!
 
