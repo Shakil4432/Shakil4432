@@ -6,7 +6,7 @@ Hello! I'm Md Shakil Hossain, a passionate junior frontend web developer with ex
 ## Skills
 
 <div align="center">
-### Frontend
+
 
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?logo=tailwindcss&style=for-the-badge)
