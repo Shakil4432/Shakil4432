@@ -8,11 +8,11 @@ Hello! I'm Md Shakil Hossain, a passionate junior frontend web developer with ex
 <div align="center">
 
 
-![React](https://img.shields.io/badge/-React-black?logo=react&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?logo=tailwindcss&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-black?logo=firebase&style=for-the-badge)
-![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens&style=for-the-badge)
+<img src="https://img.shields.io/badge/-black?logo=react&style=for-the-badge" alt="React" height="50">
+<img src="https://img.shields.io/badge/-black?logo=tailwindcss&style=for-the-badge" alt="Tailwind CSS" height="50">
+<img src="https://img.shields.io/badge/-black?logo=mongodb&style=for-the-badge" alt="MongoDB" height="50">
+<img src="https://img.shields.io/badge/-black?logo=firebase&style=for-the-badge" alt="Firebase" height="50">
+<img src="https://img.shields.io/badge/-black?logo=jsonwebtokens&style=for-the-badge" alt="JWT" height="50">
 </div>
 
 ## Let's Connect!
