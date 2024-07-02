@@ -11,6 +11,4 @@ Hello! I'm Md Shakil Hossain, a passionate junior frontend web developer with ex
 ![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens&style=for-the-badge)
 
 ## GitHub Stats
-![Commit Count](https://img.shields.io/badge/Commits-1234-green?style=for-the-badge)
-![Top Languages](https://img.shields.io/badge/Top%20Languages-JavaScript%20%7C%20CSS%20%7C%20HTML-blue?style=for-the-badge)
-
+![Commits](https://img.shields.io/badge/Commits-1234-brightgreen?style=flat-square) 
