@@ -10,5 +10,5 @@ Hello! I'm Md Shakil Hossain, a passionate junior frontend web developer with ex
 ![Firebase](https://img.shields.io/badge/-Firebase-black?logo=firebase&style=for-the-badge)
 ![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens&style=for-the-badge)
 
-## GitHub Stats
-![Commits](https://img.shields.io/badge/Commits-1234-brightgreen?style=flat-square) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=dark)
