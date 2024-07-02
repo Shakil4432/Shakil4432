@@ -22,7 +22,7 @@ Hello! I'm Md Shakil Hossain, a passionate junior frontend web developer with ex
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakil4432&show_icons=true&hide_border=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil4432&layout=compact&hide_border=true&theme=dark)
+
 
 ## Let's Connect!
 
