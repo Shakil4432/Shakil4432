@@ -5,6 +5,8 @@ Hello! I'm Md Shakil Hossain, a passionate junior frontend web developer with ex
 
 ## Skills
 
+<div align="center">
+
 ### Frontend
 
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=for-the-badge)
@@ -15,6 +17,8 @@ Hello! I'm Md Shakil Hossain, a passionate junior frontend web developer with ex
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?logo=firebase&style=for-the-badge)
 ![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens&style=for-the-badge)
+
+</div>
 
 ## Let's Connect!
 
