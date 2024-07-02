@@ -31,10 +31,6 @@ Hello! I'm Md Shakil Hossain, a passionate junior frontend web developer with ex
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/profile.php?id=61555055485426)
 
 ## Pinned Repositories
-
-### [UnityServe](https://github.com/Shakil4432/UnityServe)
-![UnityServe](https://github-readme-stats.vercel.app/api/pin/?username=Shakil4432&repo=UnityServe&theme=dark)
-
-### [Medi_Shop](https://github.com/Shakil4432/Medi_Shop)
-![Medi_Shop](https://github-readme-stats.vercel.app/api/pin/?username=Shakil4432&repo=Medi_Shop&theme=dark)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shakil4432&repo=UnityServe&theme=gruvbox)](https://github.com/Shakil4432/UnityServe)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shakil4432&repo=Medi_Shop&theme=gruvbox)](https://github.com/Shakil4432/Medi_Shop)
 
