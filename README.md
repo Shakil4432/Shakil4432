@@ -4,9 +4,13 @@
 Hello! I'm Md Shakil Hossain, a passionate junior frontend web developer with expertise in React.js, Tailwind CSS, MongoDB, Firebase, and JWT. I enjoy building dynamic and user-friendly web applications that provide a seamless user experience.
 
 ## Skills
-- **React.js**: ![React](https://img.shields.io/badge/-React-black?logo=react&style=flat-square)
-- **Tailwind CSS**: ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?logo=tailwindcss&style=flat-square)
-- **MongoDB**: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=flat-square)
-- **Firebase**: ![Firebase](https://img.shields.io/badge/-Firebase-black?logo=firebase&style=flat-square)
-- **JWT**: ![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens&style=flat-square)
+![React](https://img.shields.io/badge/-React-black?logo=react&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?logo=tailwindcss&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-black?logo=firebase&style=for-the-badge)
+![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens&style=for-the-badge)
+
+## GitHub Stats
+![Commit Count](https://img.shields.io/badge/Commits-1234-green?style=for-the-badge)
+![Top Languages](https://img.shields.io/badge/Top%20Languages-JavaScript%20%7C%20CSS%20%7C%20HTML-blue?style=for-the-badge)
 
