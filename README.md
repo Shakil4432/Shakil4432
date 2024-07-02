@@ -23,6 +23,8 @@ Hello! I'm Md Shakil Hossain, a passionate junior frontend web developer with ex
 
 ## Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/yourusername)
-- [Portfolio](https://yourportfolio.com)
-- [Email](mailto:youremail@example.com)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/yourusername)
+&nbsp;&nbsp;&nbsp;
+[![Portfolio](https://img.icons8.com/color/48/000000/domain.png)](https://yourportfolio.com)
+&nbsp;&nbsp;&nbsp;
+[![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:youremail@example.com)
