@@ -11,7 +11,6 @@ Hello! I'm Md Shakil Hossain, a passionate junior frontend web developer with ex
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?logo=tailwindcss&style=for-the-badge)
 
-### Backend
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?logo=firebase&style=for-the-badge)
