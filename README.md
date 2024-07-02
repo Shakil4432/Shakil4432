@@ -11,5 +11,5 @@ Hello! I'm Md Shakil Hossain, a passionate junior frontend web developer with ex
 ![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens&style=for-the-badge)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakil4432&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffb86c&text_color=ffffff&bg_color=282a36)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil4432&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=282a36)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakil4432&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=282c34)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil4432&layout=compact&hide_border=true&title_color=ff69b4&text_color=ffffff&bg_color=282c34)
