@@ -29,3 +29,9 @@ Hello! I'm Md Shakil Hossain, a passionate junior frontend web developer with ex
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/shakil-hossain-44157823b)
 &nbsp;&nbsp;&nbsp;
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/profile.php?id=61555055485426)
+
+## Pinned Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shakil4432&repo=repo1)](https://github.com/yourusername/repo1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shakil4432&repo=repo2)](https://github.com/yourusername/repo2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shakil4432&repo=repo3)](https://github.com/yourusername/repo3)
