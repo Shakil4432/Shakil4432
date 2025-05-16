@@ -7,11 +7,11 @@ I specialize in:
 
 ⚛️ React.js – Building dynamic, component-based UIs
 
-💨 Tailwind CSS – Crafting responsive, visually appealing layouts
-
 🌐 Next.js – Developing fullstack, SEO-optimized applications
 
 🟦 TypeScript – Writing safer, scalable, and maintainable code
+
+💨 Tailwind CSS – Crafting responsive, visually appealing layouts
 
 🛢️ PostgreSQL & 🍃 MongoDB – Managing relational and NoSQL databases
 
