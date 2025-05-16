@@ -24,31 +24,31 @@ I'm always exploring new technologies and best practices to improve performance,
 ## Skills
 
 <a href="https://reactjs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" alt="React" title="React" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" title="React" />
 </a>
 <a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS" title="Tailwind CSS" />
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" alt="MongoDB" title="MongoDB" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" title="MongoDB" />
 </a>
 <a href="https://firebase.google.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=flat" alt="Firebase" title="Firebase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" alt="Firebase" title="Firebase" />
 </a>
 <a href="https://jwt.io/" target="_blank">
-  <img src="https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white&style=flat" alt="JWT" title="JWT" />
+  <img src="https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white&style=for-the-badge" alt="JWT" title="JWT" />
 </a>
 <a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" title="PostgreSQL" />
 </a>
 <a href="https://nextjs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat" alt="Next.js" title="Next.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" title="Next.js" />
 </a>
 <a href="https://www.prisma.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat" alt="Prisma" title="Prisma" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" alt="Prisma" title="Prisma" />
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" alt="TypeScript" title="TypeScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" title="TypeScript" />
 </a>
 
 ## GitHub Stats
