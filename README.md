@@ -1,7 +1,18 @@
 ![Banner](./banner.png)
 
-## About Me
-Hello! I'm Md Shakil Hossain, a passionate junior frontend web developer with expertise in React.js, Tailwind CSS, MongoDB, Firebase, and JWT. I enjoy building dynamic and user-friendly web applications that provide a seamless user experience.
+🚀 About Me
+Hello! I'm Md Shakil Hossain, a passionate and growth-driven Frontend Web Developer who enjoys building clean, modern, and efficient web applications.
+
+I specialize in:
+⚛️ React.js – Building dynamic, component-based UIs
+💨 Tailwind CSS – Crafting responsive, visually appealing layouts
+🌐 Next.js – Developing fullstack, SEO-optimized applications
+🟦 TypeScript – Writing safer, scalable, and maintainable code
+🛢️ PostgreSQL & 🍃 MongoDB – Managing relational and NoSQL databases
+🔄 Prisma ORM – Simplifying database access with type-safe queries
+🔐 Firebase & JWT – Handling authentication and secure APIs
+
+I'm always exploring new technologies and best practices to improve performance, user experience, and code quality. Let’s build something amazing!
 
 ## Skills
  <a href="https://reactjs.org/" target="_blank">
