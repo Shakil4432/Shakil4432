@@ -1,4 +1,4 @@
-![Banner](https://www.canva.com/design/DAGnn_dzbL4/Q4IFlUS_0EK48cKl-UPqlQ/edit?utm_content=DAGnn_dzbL4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Banner](./banner.png)
 
 ## About Me
 Hello! I'm Md Shakil Hossain, a passionate junior frontend web developer with expertise in React.js, Tailwind CSS, MongoDB, Firebase, and JWT. I enjoy building dynamic and user-friendly web applications that provide a seamless user experience.
