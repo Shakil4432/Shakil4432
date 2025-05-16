@@ -3,7 +3,7 @@
 🚀 About Me
 Hello! I'm Md Shakil Hossain, a passionate and growth-driven Frontend Web Developer who enjoys building clean, modern, and efficient web applications.
 
-##I specialize in:
+## I specialize in:
 
 ⚛️ React.js – Building dynamic, component-based UIs
 
